@@ -1,0 +1,22 @@
+{
+  "prayerTimes": "Horaires de prière",
+  "nextPrayer": "Prochaine prière",
+  "fajr": "Fajr",
+  "sunrise": "Lever du soleil",
+  "dhuhr": "Dhuhr",
+  "asr": "Asr",
+  "maghrib": "Maghrib",
+  "isha": "Isha",
+  "jummah": "Jummah",
+  "timeRemaining": "Temps restant",
+  "location": "Localisation",
+  "detectLocation": "Détecter ma position",
+  "enterLocation": "Entrez la localisation",
+  "updateLocation": "Mettre à jour la localisation",
+  "prayerNotifications": "Notifications de prière",
+  "enableNotifications": "Activer les notifications",
+  "notification": {
+    "title": "C'est l'heure de {{prayer}}",
+    "body": "Ne manquez pas votre prière"
+  }
+}

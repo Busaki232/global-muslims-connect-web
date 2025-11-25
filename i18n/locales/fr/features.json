@@ -1,0 +1,28 @@
+{
+  "title": "Tout ce dont vous avez besoin",
+  "subtitle": "Des outils complets pour votre mode de vie islamique",
+  "prayerTimes": {
+    "title": "Horaires de prière",
+    "description": "Horaires de prière précis basés sur votre localisation avec notifications"
+  },
+  "quranRecitation": {
+    "title": "Récitation du Coran",
+    "description": "Écoutez de belles récitations de récitateurs renommés"
+  },
+  "communityChat": {
+    "title": "Discussion communautaire",
+    "description": "Connectez-vous avec des musulmans du monde entier dans un environnement sûr et modéré"
+  },
+  "mosqueDirectory": {
+    "title": "Annuaire des mosquées",
+    "description": "Trouvez des mosquées près de chez vous avec horaires de prière et services"
+  },
+  "islamicCalendar": {
+    "title": "Calendrier islamique",
+    "description": "Suivez les dates et fêtes islamiques importantes"
+  },
+  "events": {
+    "title": "Événements communautaires",
+    "description": "Rejoignez et organisez des événements islamiques dans votre région"
+  }
+}

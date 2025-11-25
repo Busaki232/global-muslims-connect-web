@@ -1,0 +1,22 @@
+{
+  "welcome": "Bienvenue",
+  "loading": "Chargement...",
+  "error": "Erreur",
+  "success": "Succès",
+  "save": "Enregistrer",
+  "cancel": "Annuler",
+  "delete": "Supprimer",
+  "edit": "Modifier",
+  "close": "Fermer",
+  "submit": "Soumettre",
+  "search": "Rechercher",
+  "filter": "Filtrer",
+  "viewAll": "Tout voir",
+  "readMore": "Lire plus",
+  "learnMore": "En savoir plus",
+  "getStarted": "Commencer",
+  "joinNow": "Rejoindre - C'est gratuit",
+  "or": "ou",
+  "salaam": "As-salamu alaykum",
+  "bismillah": "Bismillah ar-Rahman ar-Rahim"
+}

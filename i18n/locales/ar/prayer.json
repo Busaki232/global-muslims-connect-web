@@ -1,0 +1,22 @@
+{
+  "prayerTimes": "مواقيت الصلاة",
+  "nextPrayer": "الصلاة القادمة",
+  "fajr": "الفجر",
+  "sunrise": "الشروق",
+  "dhuhr": "الظهر",
+  "asr": "العصر",
+  "maghrib": "المغرب",
+  "isha": "العشاء",
+  "jummah": "الجمعة",
+  "timeRemaining": "الوقت المتبقي",
+  "location": "الموقع",
+  "detectLocation": "تحديد موقعي",
+  "enterLocation": "أدخل الموقع",
+  "updateLocation": "تحديث الموقع",
+  "prayerNotifications": "تنبيهات الصلاة",
+  "enableNotifications": "تفعيل التنبيهات",
+  "notification": {
+    "title": "حان وقت صلاة {{prayer}}",
+    "body": "لا تفوت صلاتك"
+  }
+}

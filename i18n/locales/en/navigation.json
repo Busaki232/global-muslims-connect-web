@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "chat": "Chat",
+  "events": "Events",
+  "mosques": "Mosques",
+  "quran": "Quran",
+  "calendar": "Calendar",
+  "admin": "Admin",
+  "dashboard": "Dashboard",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "signOut": "Sign Out",
+  "partnerships": "Partnerships",
+  "submitAd": "Submit Ad",
+  "submitMosque": "Submit Mosque"
+}

@@ -1,0 +1,22 @@
+{
+  "prayerTimes": "Prayer Times",
+  "nextPrayer": "Next Prayer",
+  "fajr": "Fajr",
+  "sunrise": "Sunrise",
+  "dhuhr": "Dhuhr",
+  "asr": "Asr",
+  "maghrib": "Maghrib",
+  "isha": "Isha",
+  "jummah": "Jummah",
+  "timeRemaining": "Time Remaining",
+  "location": "Location",
+  "detectLocation": "Detect My Location",
+  "enterLocation": "Enter location",
+  "updateLocation": "Update Location",
+  "prayerNotifications": "Prayer Notifications",
+  "enableNotifications": "Enable Notifications",
+  "notification": {
+    "title": "It's time for {{prayer}}",
+    "body": "Don't miss your prayer"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Everything You Need",
+  "subtitle": "Comprehensive tools for your Islamic lifestyle",
+  "prayerTimes": {
+    "title": "Prayer Times",
+    "description": "Accurate prayer times based on your location with notifications"
+  },
+  "quranRecitation": {
+    "title": "Quran Recitation",
+    "description": "Listen to beautiful recitations from renowned Qaris"
+  },
+  "communityChat": {
+    "title": "Community Chat",
+    "description": "Connect with Muslims worldwide in a safe, moderated environment"
+  },
+  "mosqueDirectory": {
+    "title": "Mosque Directory",
+    "description": "Find mosques near you with prayer times and services"
+  },
+  "islamicCalendar": {
+    "title": "Islamic Calendar",
+    "description": "Track important Islamic dates and holidays"
+  },
+  "events": {
+    "title": "Community Events",
+    "description": "Join and organize Islamic events in your area"
+  }
+}

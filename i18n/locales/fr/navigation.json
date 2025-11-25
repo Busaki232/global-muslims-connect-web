@@ -1,0 +1,16 @@
+{
+  "home": "Accueil",
+  "chat": "Discussion",
+  "events": "Événements",
+  "mosques": "Mosquées",
+  "quran": "Coran",
+  "calendar": "Calendrier",
+  "admin": "Admin",
+  "dashboard": "Tableau de bord",
+  "signIn": "Se connecter",
+  "signUp": "S'inscrire",
+  "signOut": "Se déconnecter",
+  "partnerships": "Partenariats",
+  "submitAd": "Soumettre une annonce",
+  "submitMosque": "Ajouter une mosquée"
+}

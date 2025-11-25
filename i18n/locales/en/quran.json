@@ -1,0 +1,20 @@
+{
+  "quran": "Quran",
+  "surah": "Surah",
+  "ayah": "Ayah",
+  "verse": "Verse",
+  "recitation": "Recitation",
+  "translation": "Translation",
+  "reciter": "Reciter",
+  "selectReciter": "Select Reciter",
+  "selectSurah": "Select Surah",
+  "play": "Play",
+  "pause": "Pause",
+  "stop": "Stop",
+  "repeatVerse": "Repeat Verse",
+  "popularSurahs": "Popular Surahs",
+  "listenToQuran": "Listen to the Holy Quran",
+  "quranDescription": "Beautiful recitations of the Quran with translations",
+  "shareVerse": "Share Verse",
+  "quote": "And We have certainly made the Qur'an easy for remembrance, so is there any who will remember?"
+}

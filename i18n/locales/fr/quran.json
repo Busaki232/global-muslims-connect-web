@@ -1,0 +1,20 @@
+{
+  "quran": "Coran",
+  "surah": "Sourate",
+  "ayah": "Verset",
+  "verse": "Verset",
+  "recitation": "Récitation",
+  "translation": "Traduction",
+  "reciter": "Récitateur",
+  "selectReciter": "Sélectionner un récitateur",
+  "selectSurah": "Sélectionner une sourate",
+  "play": "Lire",
+  "pause": "Pause",
+  "stop": "Arrêter",
+  "repeatVerse": "Répéter le verset",
+  "popularSurahs": "Sourates populaires",
+  "listenToQuran": "Écoutez le Saint Coran",
+  "quranDescription": "Belles récitations du Coran avec traductions",
+  "shareVerse": "Partager le verset",
+  "quote": "Et Nous avons certes facilité le Coran pour la méditation. Y a-t-il quelqu'un pour réfléchir ?"
+}
